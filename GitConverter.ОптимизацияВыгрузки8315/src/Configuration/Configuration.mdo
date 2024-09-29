@@ -22,6 +22,7 @@
   <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="ba765489-e8a6-4274-90e1-42a7b2f8c9a9"/>
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="fa2e947a-18b4-4ad5-a2d0-b8a78cf9b47a"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="56ed7bda-cb65-4ef3-9741-870d89edff0d"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="908fbb12-cc38-47a4-85a4-58510215ccd1"/>
   <namePrefix>ОптимизацияВыгрузки_</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.12</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>

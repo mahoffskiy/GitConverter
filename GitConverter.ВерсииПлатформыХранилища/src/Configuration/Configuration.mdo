@@ -22,6 +22,7 @@
   <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="aa5c7b4d-a246-4b56-86cc-c9622b6afbde"/>
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="46ca2cdc-a94b-4853-ae7a-a6955e0d5246"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="0215bcfa-af01-4487-97c1-4423d1ddd0ac"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="203fbb12-cc38-47a4-85a4-58510215ccd1"/>
   <namePrefix>ВерсииПлатформыХранилища_</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.12</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
