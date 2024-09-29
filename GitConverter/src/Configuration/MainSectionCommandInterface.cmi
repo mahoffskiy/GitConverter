@@ -18,10 +18,6 @@
       <visible/>
     </visibilityFragments>
     <visibilityFragments>
-      <command>0:74d4fa7e-97eb-46bc-8793-84bf7ff4f5b7</command>
-      <visible/>
-    </visibilityFragments>
-    <visibilityFragments>
       <command>DataProcessor.РегламентныеИФоновыеЗадания.StandardCommand.Open</command>
       <visible/>
     </visibilityFragments>
